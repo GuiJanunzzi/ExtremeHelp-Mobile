@@ -18,7 +18,7 @@ Este repositório contém o código-fonte do aplicativo móvel **ExtremeHelp**, 
 
 Assista ao vídeo demonstrativo da aplicação, apresentando todas as suas funcionalidades, desde o login até a execução completa do CRUD de Pedidos de Ajuda.
 
-**➡️ [Link para o Vídeo no YouTube](https://youtu.be/lkp8UsyHloA)**
+➡️ **Consulte o README do Back-end para o passo a passo da API: [ExtremeHelp - Java Backend Repository](https://github.com/GuiJanunzzi/JavaBackend-ExtremeHelp)**
 
 ---
 
@@ -70,7 +70,6 @@ No seu terminal, clone este repositório para sua máquina local.
 
 ```bash
 git clone https://github.com/GuiJanunzzi/ExtremeHelp-Mobile
-cd <NOME_DA_PASTA_DO_PROJETO>
 ```
 
 ### 2. Instalar as Dependências
